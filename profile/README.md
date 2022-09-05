@@ -1,5 +1,5 @@
 
-![zondax](assets/zondax_new.png)
+![zondax](https://user-images.githubusercontent.com/95368257/188494172-804ad46f-381c-4767-a650-ea77f9a3e99a.png)
 
 # About Zondax
 
