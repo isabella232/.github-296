@@ -14,7 +14,7 @@ We are good at delivering outstanding blockchain services and software solutions
 - 👩‍💻Integration
 - 🚀Protocol Engineering
 
-In this GitHub repository, you can find a long list of top-notch blockchain projects we’ve contributed to & we’re actively involved in, such as Filecoin, Bockstack, Ledger Live, Trustwallet, Zcash, Polkadot, and many more. 
+In this GitHub repository, you can find a long list of top-notch blockchain projects we’ve contributed to & we’re actively involved in, such as Filecoin, Stacks, Ledger Live, Trustwallet, Zcash, Polkadot, and many more. 
 
 
 ## Connect with us: 
